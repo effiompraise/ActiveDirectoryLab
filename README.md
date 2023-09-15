@@ -1,7 +1,7 @@
 <h1>Active Directory Home Lab</h1>
 
 <h2>Description</h2>
-The primary goal of this project was to design, build, and optimize an Active Directory (AD) home lab environment that closely simulates a real-world enterprise network. This hands-on endeavor allowed me to gain invaluable experience in managing user accounts, group policies, security protocols, and network configurations.
+The primary goal of this project was to design, build, and optimize an Active Directory (AD) home lab environment that closely simulates a real-world enterprise network. This hands-on lab allowed me to gain invaluable experience in managing user accounts, group policies, security protocols, and network configurations.
 <br />
 
 <h2>Key Achievements</h2>
