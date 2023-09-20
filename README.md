@@ -19,6 +19,10 @@ In this portfolio, I will guide you through designing, building, and optimizing 
 <img src="https://imgur.com/27yxVNd.png" height="80%" width="80%" alt="Create Virtual Machines"/><br/>
 <img src="https://imgur.com/8T8nMYo.png" height="80%" width="80%" alt="Create Virtual Machines"/><br/>
 
+1.3 <b>Allocate Resources</b>
+- Assign CPU, RAM, and storage resources to each VM.
+- Ensure sufficient resources for smooth operation.
+<img src="https://imgur.com/1k0LpKY.png" height="80%" width="80%" alt="Create Virtual Machines"/><br/>
 
 - <b>Active Directory Deployment:</b> <p>I configured and deployed Windows Server as domain controllers, successfully establishing an Active Directory forest, domain, and organizational units (OUs).</p>
 - <b>High Availability and Redundancy:</b> <p>To showcase my knowledge of best practices, I implemented fault tolerance mechanisms, such as backup domain controllers and data replication.</p>
