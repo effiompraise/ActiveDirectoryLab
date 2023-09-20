@@ -1,12 +1,25 @@
 <h1>Active Directory Home Lab</h1>
 
 <h2>Description</h2>
-The primary goal of this project was to design, build, and optimize an Active Directory (AD) home lab environment that closely simulates a real-world enterprise network. This hands-on lab allowed me to gain invaluable experience in managing user accounts, group policies, security protocols, and network configurations.
+In this portfolio, I will guide you through designing, building, and optimizing an Active Directory (AD) home lab environment that closely simulates a real-world enterprise network. This hands-on project allowed me to gain invaluable experience managing user accounts, group policies, security protocols, and network configurations. The lab was set up using Oracle VirtualBox, eliminating the need for physical hardware. Here, I'll provide a step-by-step guide with explanations, scripts, and corresponding images to describe the stages in the process.
 <br />
 
 <h2>Key Achievements</h2>
 
-- <b>Infrastructure Setup:</b> <p>I meticulously set up a virtualized environment using Oracle VirtualBox, emulating multiple servers and workstations. This allowed me to create a self-contained AD network without the need for physical hardware.</p> 
+- <b>Infrastructure Setup:</b> <p>I meticulously set up a virtualized environment using Oracle VirtualBox, emulating multiple servers and workstations. This allowed me to create a self-contained AD network without needing physical hardware.</p>
+ 
+
+1.1. [VirtualBox Installation](https://www.virtualbox.org/) : <br/>
+<img src="https://imgur.com/LuhaAnu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
+1.2. [Create Virtual Machines (VMs)](https://docs.oracle.com/cd/E26217_01/E26796/html/qs-create-vm.html):
+- Create VMs for Windows Server and Windows Workstations.
+- Configure network settings for each VM.<br/>
+<img src="https://imgur.com/27yxVNd.png" height="80%" width="80%" alt="Create Virtual Machines"/><br/>
+<img src="https://imgur.com/8T8nMYo.png" height="80%" width="80%" alt="Create Virtual Machines"/><br/>
+
+
 - <b>Active Directory Deployment:</b> <p>I configured and deployed Windows Server as domain controllers, successfully establishing an Active Directory forest, domain, and organizational units (OUs).</p>
 - <b>High Availability and Redundancy:</b> <p>To showcase my knowledge of best practices, I implemented fault tolerance mechanisms, such as backup domain controllers and data replication.</p>
 - <b>User Management:</b> <p>I created and managed user accounts, granting them various permissions and roles, to mimic real-world scenarios. This involved user provisioning, password policies, and group memberships.</p>
