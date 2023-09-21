@@ -22,9 +22,13 @@ In this portfolio, I will guide you through designing, building, and optimizing 
 1.3 <b>Allocate Resources</b>
 - Assign CPU, RAM, and storage resources to each VM.
 - Ensure sufficient resources for smooth operation.
+  
 <img src="https://imgur.com/1k0LpKY.png" height="80%" width="80%" alt="Create Virtual Machines"/><br/>
 
 - <b>Active Directory Deployment:</b> <p>I configured and deployed Windows Server as domain controllers, successfully establishing an Active Directory forest, domain, and organizational units (OUs).</p>
+2.1 <b>[Install Windows Server](https://www.microsoft.com/en-us/software-download/windows10):</b>
+<img src="https://imgur.com/wnKYInO.png" height="80%" width="80%" alt="Create Virtual Machines"/><br/>
+
 - <b>High Availability and Redundancy:</b> <p>To showcase my knowledge of best practices, I implemented fault tolerance mechanisms, such as backup domain controllers and data replication.</p>
 - <b>User Management:</b> <p>I created and managed user accounts, granting them various permissions and roles, to mimic real-world scenarios. This involved user provisioning, password policies, and group memberships.</p>
 - <b>Group Policy Management:</b> <p>To demonstrate my expertise in centralized management, I implemented Group Policy Objects (GPOs) for controlling security settings, software installations, and system configurations across the network.</p>
