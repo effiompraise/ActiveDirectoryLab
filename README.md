@@ -32,7 +32,8 @@ In this portfolio, I will guide you through designing, building, and optimizing 
 
 <p><b>VM running for DC</b></p></b><img src="https://imgur.com/tsLansY.png" height="80%" width="80%" alt="VM running for DC"/><br/>
 
-<P><b>Domain Controller</b><img src="https://imgur.com/cNfG5OF.png" height="80%" width="80%" alt="VM running for DC"/></P>
+<P><b>Domain Controller</b></P><img src="https://imgur.com/cNfG5OF.png" height="80%" width="80%" alt="Domain Controller"/><br/>
+<p><b>Domain Installation</b></p><img src="https://imgur.com/9nlZl7w.png" height="80%" width="80%" alt="Domain Controller Installation"/><br/>
 
 - <b>High Availability and Redundancy:</b> <p>To showcase my knowledge of best practices, I implemented fault tolerance mechanisms, such as backup domain controllers and data replication.</p>
 - <b>User Management:</b> <p>I created and managed user accounts, granting them various permissions and roles, to mimic real-world scenarios. This involved user provisioning, password policies, and group memberships.</p>
